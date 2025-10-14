@@ -1,2 +1,2 @@
 # Sales-analysis-dashboard
-Data-driven sales dashboard developed with Power BI, featuring automated data cleaning, KPI tracking, and interactive visualizations for decision-making.
+A comprehensive sales analysis dashboard built using Power BI, showcasing insights on revenue, profit, and product performance with dynamic filters and visual reports.
