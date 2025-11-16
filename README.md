@@ -40,5 +40,10 @@ Major sales contributors:
 - Foot Locker
 - Sports Direct
 ## 🛠️ Tools & Technologies Used
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV (Raw Dataset)
+
 
 
