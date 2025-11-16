@@ -14,5 +14,6 @@ This project presents an end-to-end Power BI analysis of Adidas US Sales, coveri
 - Retailer Performance
 - Key Influencers Analysis
 ## Dashboard Screenshots
-- <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%201.jpg">view Dashboard-1</a>
+- <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%201.jpg">view Dashboard</a>
+- <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%202.jpg">view Dashboard-Key Influencers & Detailed Insights</a>
 
