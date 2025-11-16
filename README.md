@@ -39,5 +39,6 @@ Major sales contributors:
 - West Gear
 - Foot Locker
 - Sports Direct
+🛠️ Tools & Technologies Used
 
 
